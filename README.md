@@ -32,7 +32,6 @@ Historial de commits hasta el momento
 
 ![captura](Capturas/11.png)
 
-## Parte 2
 
 | NOMBRE | GITHUB |
 | -- | -- |
@@ -40,3 +39,5 @@ Historial de commits hasta el momento
 
 ![captura](Capturas/12.png)
 ![captura](Capturas/13.png)
+
+## Parte 2
