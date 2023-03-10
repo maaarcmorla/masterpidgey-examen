@@ -1,5 +1,5 @@
 # masterpidgey-examen
-
+## Parte 1
 ## Comandos
 - git clone https://github.com/maaarcmorla/masterpidgey-examen.git
 ![captura](Capturas/1.png)
@@ -25,3 +25,18 @@
 
 - git tag v0.1
 ![captura](Capturas/9.png)
+
+![captura](Capturas/10.png)
+
+Historial de commits hasta el momento
+
+![captura](Capturas/11.png)
+
+## Parte 2
+
+| NOMBRE | GITHUB |
+| -- | -- |
+| Máximo Fernández Riera | [enlace a github 1](https://github.com/maximofernandezriera) |
+
+![captura](Capturas/12.png)
+![captura](Capturas/13.png)
